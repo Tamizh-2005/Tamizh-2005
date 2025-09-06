@@ -52,6 +52,7 @@
 - **Forenscope** – Digital forensics toolkit designed for evidence collection and analysis in cybersecurity investigations  
 
 ---
+
 ## 💼 Professional Experience / Internships
 
 ### 🛡️ Cyber Security Intern – InternPro
@@ -64,8 +65,10 @@
 **Jan 2025 – Feb 2025 | Remote**  
 - 🎯 Completed intensive training in **threat analysis, ethical hacking, and network security**.  
 - ⚡ Applied concepts in real-world cyber attack simulations, including **phishing, DDoS, and SQL injection labs**.  
-- 🤝 Collaborated in a **virtual SOC environment** to practice **incident response** and defense strategies.  
+- 🤝 Collaborated in a **virtual SOC environment** to practice **incident response** and defense strategies.
+    
 ---
+
 ### 🏅 Certifications & Achievements  
 
 - 📜 **Google Cybersecurity Professional Certificate** – Coursera  
