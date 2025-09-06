@@ -35,13 +35,13 @@
 **Databases**  
 ![MySQL](https://img.icons8.com/color/48/mysql-logo.png)  
 
-**Tools & Platforms**   
-![Nmap](https://img.icons8.com/color/48/nmap.png) 
-![Metasploit](https://raw.githubusercontent.com/rapid7/metasploit-omnibus/master/assets/logo.png) 
-![Burp Suite](https://img.icons8.com/ios-filled/50/FD7E14/burp-suite.png) 
-![Nessus](https://raw.githubusercontent.com/tenable/nessus-logo/master/Nessus-Logo.png) 
-![OpenVAS](https://upload.wikimedia.org/wikipedia/commons/5/5e/OpenVAS-Logo-2010.png) 
-![SQLMap](https://raw.githubusercontent.com/sqlmapproject/sqlmap/master/webapp/static/sqlmap-logo.png) 
+**Tools & Platforms**  
+![Nmap](https://img.icons8.com/color/48/nmap.png)  
+![Metasploit](https://upload.wikimedia.org/wikipedia/commons/2/2f/Metasploit_logo_and_wordmark.svg)  
+![Burp Suite](https://img.icons8.com/ios-filled/50/FD7E14/burp-suite.png)  
+![Nessus](https://upload.wikimedia.org/wikipedia/commons/4/4b/Nessus-Professional-FullColor-RGB.svg)  
+![OpenVAS](https://upload.wikimedia.org/wikipedia/commons/5/5e/OpenVAS-Logo-2010.png)  
+![SQLMap](https://upload.wikimedia.org/wikipedia/commons/1/1b/Sqlmap_logo.png)  
 ![Hydra](https://upload.wikimedia.org/wikipedia/commons/7/73/Hydra-logo.png)
 
 **Operating Systems & Scripting**  
