@@ -85,7 +85,7 @@
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=Tamizh-2005&theme=radical&show_icons=true" width="400" /> 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Tamizh-2005&theme=radical" width="350" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Tamizh-2005&theme=radical" width="400" /> 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tamizh-2005&bg_color=000000&color=00ffb3&line=00ffea&point=ffffff&area=true&hide_border=true" width="400" />
 
 </div>
