@@ -27,7 +27,7 @@
 ###  💻 Skills 
 
 **Programming Languages**  
-![Python](https://img.icons8.com/color/48/python.png) ![Java](https://img.icons8.com/color/48/java-coffee-cup-logo.png) ![C](https://img.icons8.com/color/48/c-programming.png) ![Bash](https://img.icons8.com/fluency/48/console.png)  
+![Java](https://img.icons8.com/color/48/java-coffee-cup-logo.png) ![Python](https://img.icons8.com/color/48/python.png) ![C](https://img.icons8.com/color/48/c-programming.png)  
 
 **Web**  
 ![HTML](https://img.icons8.com/color/48/html-5.png) ![CSS](https://img.icons8.com/color/48/css3.png) ![JavaScript](https://img.icons8.com/color/48/javascript.png)  
