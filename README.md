@@ -35,14 +35,14 @@
 **Databases**  
 ![MySQL](https://img.icons8.com/color/48/mysql-logo.png)  
 
-**Tools & Platforms**  
-Nmap | Metasploit | Burp Suite | Nessus | OpenVAS | SQLMap | Hydra
-
 **Operating Systems & Scripting**  
 ![Linux](https://img.icons8.com/color/48/linux--v1.png) ![Windows](https://img.icons8.com/color/48/windows-logo.png) ![Bash](https://img.icons8.com/fluency/48/console.png) ![PowerShell](https://img.icons8.com/color/48/powershell.png)  
 
+**Tools & Platforms**  
+Nmap || Metasploit || Burp Suite || Nessus || OpenVAS || SQLMap || Hydra
+
 **Networking & Protocols**  
-`TCP/IP`, `DNS`, `DHCP`, `HTTP/HTTPS`, `FTP`, `SSH`, `VPNs`, `Firewalls`  
+`TCP/IP`|| `DNS`|| `DHCP`|| `HTTP/HTTPS`|| `FTP`|| `SSH`|| `VPNs`|| `Firewalls`  
 
 ---
 
