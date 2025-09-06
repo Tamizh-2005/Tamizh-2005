@@ -36,7 +36,8 @@
 ![MySQL](https://img.icons8.com/color/48/mysql-logo.png)  
 
 **Tools & Platforms**  
-![Nmap](https://img.icons8.com/color/48/nmap.png) ![Metasploit](https://img.icons8.com/ios-filled/50/000000/metasploit.png) ![Burp Suite](https://img.icons8.com/ios-filled/50/FD7E14/burp-suite.png) ![Nessus](https://img.icons8.com/color/48/nessus.png) ![OpenVAS](https://img.icons8.com/color/48/openvas.png) ![SQLMap](https://img.icons8.com/fluency/50/sql.png) ![Hydra](https://www.kali.org/tools/hydra/images/hydra-logo.svg) 
+**Tools & Platforms**  
+![Nmap](https://img.icons8.com/color/48/nmap.png) ![Metasploit](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Metasploit_logo_and_wordmark.svg/799px-Metasploit_logo_and_wordmark.svg.png) ![Burp Suite](https://img.icons8.com/ios-filled/50/FD7E14/burp-suite.png) ![Nessus](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Nessus-Professional-FullColor-RGB.svg/512px-Nessus-Professional-FullColor-RGB.svg.png) ![OpenVAS](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/OpenVAS-Logo-2010.png/396px-OpenVAS-Logo-2010.png) ![SQLMap](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Sqlmap_logo.png/800px-Sqlmap_logo.png) ![Hydra](https://www.pngegg.com/en/search?q=hydra+Logo)
 
 **Operating Systems & Scripting**  
 ![Linux](https://img.icons8.com/color/48/linux--v1.png) ![Windows](https://img.icons8.com/color/48/windows-logo.png) ![Bash](https://img.icons8.com/fluency/48/console.png) ![PowerShell](https://img.icons8.com/color/48/powershell.png)  
