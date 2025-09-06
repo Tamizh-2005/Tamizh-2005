@@ -82,11 +82,15 @@
 
 ### 📈 GitHub Stats
 
+### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Tamizh-2005&theme=radical" width="425" /> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Tamizh-2005&theme=radical&show_icons=true" width="400" /> 
-  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tamizh-2005&background=0d1117&stroke=00ffb3&ring=ff6b6b&fire=ffcc00" width="425" /> 
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Tamizh-2005&show_icons=true&text_color=00ffb3&icon_color=ff6b6b&bg_color=0d1117" width="400" /> 
+
+  <!-- GitHub Streak -->
+ 
 
 </div>
 
@@ -94,7 +98,8 @@
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tamizh-2005&bg_color=000000&color=00ffb3&line=00ffea&point=ffffff&area=true&hide_border=true" width="800" />
+  <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tamizh-2005&bg_color=0d1117&color=00ffb3&line=00ffea&point=ffffff&area=true&hide_border=true" width="800" />
 
 </div>
 
