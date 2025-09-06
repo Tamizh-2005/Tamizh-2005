@@ -36,7 +36,7 @@
 ![MySQL](https://img.icons8.com/color/48/mysql-logo.png)  
 
 **Tools & Platforms**  
-![Nmap](https://img.icons8.com/color/48/nmap.png) ![Metasploit](https://img.icons8.com/ios-filled/50/000000/metasploit.png) ![Burp Suite](https://img.icons8.com/ios-filled/50/FD7E14/burp-suite.png) ![Nessus](https://img.icons8.com/color/48/nessus.png) ![OpenVAS](https://img.icons8.com/color/48/openvas.png) ![SQLMap](https://img.icons8.com/fluency/50/sql.png) ![Hydra](https://img.icons8.com/pulsar-gradient/48/hydra.png) 
+![Nmap](https://img.icons8.com/color/48/nmap.png) ![Metasploit](https://img.icons8.com/ios-filled/50/000000/metasploit.png) ![Burp Suite](https://img.icons8.com/ios-filled/50/FD7E14/burp-suite.png) ![Nessus](https://img.icons8.com/color/48/nessus.png) ![OpenVAS](https://img.icons8.com/color/48/openvas.png) ![SQLMap](https://img.icons8.com/fluency/50/sql.png) ![Hydra](https://www.kali.org/tools/hydra/images/hydra-logo.svg) 
 
 **Operating Systems & Scripting**  
 ![Linux](https://img.icons8.com/color/48/linux--v1.png) ![Windows](https://img.icons8.com/color/48/windows-logo.png) ![Bash](https://img.icons8.com/fluency/48/console.png) ![PowerShell](https://img.icons8.com/color/48/powershell.png)  
