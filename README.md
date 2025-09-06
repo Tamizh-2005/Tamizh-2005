@@ -52,6 +52,20 @@
 - **Forenscope** – Digital forensics toolkit designed for evidence collection and analysis in cybersecurity investigations  
 
 ---
+## 💼 Professional Experience / Internships
+
+### 🛡️ Cyber Security Intern – InternPro
+**Jun 2025 – Jul 2025 | Remote**  
+- 🚀 Designed and deployed a **web-based Nmap dashboard** that reduced manual scan time by **50%** and improved vulnerability detection efficiency by **2×**.  
+- 🔍 Performed **20+ automated vulnerability scans** across simulated networks, identifying and reporting critical CVEs for remediation.  
+- 🖥️ Gained hands-on expertise in **Nmap, TCP/IP protocols**, and **network traffic analysis**.  
+
+### 🛡️ Cyber Security Intern – Edunet Foundation (in collaboration with IBM)
+**Jan 2025 – Feb 2025 | Remote**  
+- 🎯 Completed intensive training in **threat analysis, ethical hacking, and network security**.  
+- ⚡ Applied concepts in real-world cyber attack simulations, including **phishing, DDoS, and SQL injection labs**.  
+- 🤝 Collaborated in a **virtual SOC environment** to practice **incident response** and defense strategies.  
+---
 ### 🏅 Certifications & Achievements  
 
 - 📜 **Google Cybersecurity Professional Certificate** – Coursera  
