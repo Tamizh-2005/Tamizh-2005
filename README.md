@@ -50,14 +50,21 @@
 
 ---
 
-### 🧪 Projects & Labs  
+## 🧪 Projects 
 
-- **Deauth Detector** – Python-based tool to detect Wi-Fi deauthentication attacks and improve wireless network security  
-- **Forenscope** – Digital forensics toolkit designed for evidence collection and analysis in cybersecurity investigations  
+### Forenscope – Portable Digital Forensic Toolkit   
+- 🖥️ Engineered a Raspberry Pi-based forensic toolkit for live extraction of Wi-Fi and Bluetooth traffic from IoT devices.  
+- 🔒 Implemented AES-256 encryption and SHA-256 hashing to ensure forensic evidence integrity during storage and transfer.  
+- ✅ Tested toolkit on 10+ IoT devices, achieving 100% success in packet capture without data loss.  
+
+### Deauth Detector – Wi-Fi Attack Detection
+- 🐍 Developed a Python tool using Scapy to detect Wi-Fi deauthentication attacks in real time.  
+- ⚠️ Designed monitoring logic to flag suspicious traffic patterns and generate instant alerts.  
+- 🎯 Achieved 95% detection accuracy in lab-tested wireless attack simulations.
 
 ---
 
-## 💼 Professional Experience / Internships
+## 💼 Professional Experience
 
 ### 🛡️ Cyber Security Intern – InternPro
 **Jun 2025 – Jul 2025 | Remote**  
@@ -102,9 +109,3 @@
 </div>
 
 ---
-
-### ✨ Fun Facts  
-
-- 🎯 Love breaking stuff ethically (Penetration Testing)  
-- 🤝 Mentor peers and run virtual attack simulations  
-- 💬 “Stay curious, stay secure.”
