@@ -52,17 +52,6 @@
 - **Forenscope** – Digital forensics toolkit designed for evidence collection and analysis in cybersecurity investigations  
 
 ---
-
-### 📈 GitHub Stats  
-
-![Tamilkumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tamizh-2005&theme=radical&show_icons=true)  
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tamizh-2005&theme=radical)](https://git.io/streak-stats)  
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tamizh-2005&bg_color=000000&color=00ffb3&line=00ffea&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)  
-
----
-
 ### 🏅 Certifications & Achievements  
 
 - 📜 **Google Cybersecurity Professional Certificate** – Coursera  
@@ -71,6 +60,16 @@
 - 📜 **IBM Cybersecurity Fundamentals**  
 - 📜 **Cisco Network Technician Certification**  
 - 📜 **Computer & Digital Forensics** – Udemy  
+
+---
+
+### 📈 GitHub Stats  
+
+![Tamilkumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tamizh-2005&theme=radical&show_icons=true)  
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tamizh-2005&theme=radical)](https://git.io/streak-stats)  
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tamizh-2005&bg_color=000000&color=00ffb3&line=00ffea&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)  
 
 ---
 
