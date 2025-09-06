@@ -24,9 +24,9 @@
 
 ---
 
-### 💻 Languages & Tools  
+###  💻 Skills 
 
-**Programming & Scripting**  
+**Programming Languages**  
 ![Python](https://img.icons8.com/color/48/python.png) ![Java](https://img.icons8.com/color/48/java-coffee-cup-logo.png) ![C](https://img.icons8.com/color/48/c-programming.png) ![Bash](https://img.icons8.com/fluency/48/console.png)  
 
 **Web**  
@@ -35,17 +35,14 @@
 **Databases**  
 ![MySQL](https://img.icons8.com/color/48/mysql-logo.png)  
 
-**Version Control & IDEs**  
-![Git](https://img.icons8.com/color/48/git.png) ![GitHub](https://img.icons8.com/material-outlined/48/github.png) ![VS Code](https://img.icons8.com/color/48/visual-studio-code-2019.png) ![VirtualBox](https://img.icons8.com/color/48/virtualbox.png) ![VMware](https://img.icons8.com/color/48/vmware.png)  
+**Tools & Platforms**  
+![Nmap](https://img.icons8.com/color/48/nmap.png) ![Metasploit](https://img.icons8.com/ios-filled/50/000000/metasploit.png) ![Burp Suite](https://img.icons8.com/ios-filled/50/FD7E14/burp-suite.png) ![Nessus](https://img.icons8.com/color/48/nessus.png) ![OpenVAS](https://img.icons8.com/color/48/openvas.png) ![SQLMap](https://img.icons8.com/fluency/50/sql.png) ![Hydra](https://img.icons8.com/pulsar-gradient/48/hydra.png) 
+
+**Operating Systems & Scripting**  
+![Linux](https://img.icons8.com/color/48/linux--v1.png) ![Windows](https://img.icons8.com/color/48/windows-logo.png) ![Bash](https://img.icons8.com/fluency/48/console.png) ![PowerShell](https://img.icons8.com/color/48/powershell.png)  
 
 **Networking & Protocols**  
 `TCP/IP`, `DNS`, `DHCP`, `HTTP/HTTPS`, `FTP`, `SSH`, `VPNs`, `Firewalls`  
-
-**Security Tools**  
-`Nmap`, `Burp Suite`, `Wireshark`, `SQLMap`, `Hydra`, `Metasploit`, `Gobuster`, `Netcat`  
-
-**Labs & OS**  
-`Kali Linux`, `Docker`, `VirtualBox`, `VMware`  
 
 ---
 
