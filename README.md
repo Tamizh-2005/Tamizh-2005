@@ -1,9 +1,14 @@
-## 👋 Hey there, I'm Tamilkumar P  
+<div align="center">
 
-**Final Year Cyber Security Student** || **Ethical Hacker & Pentester** || **Network Security Enthusiast**  
-🎓 B.E. CSE (Cyber Security), J.J. College of Engineering & Technology, Anna University  
+👋Hello, this is <b>Tamilkumar P</b> 
+</div>
+<div align="center">
 
-<img align="right" width="370" height="290" src="https://lottie.host/4c5b5544-3f2d-4e82-aced-35b7db94694b/ADXGkZIFT2.gif">
+<b>|| Final Year Cyber Security Student || Ethical Hacker || Penetration Tester || Network Security Enthusiast ||</b>
+
+</div>
+
+
 
 ---
 
@@ -12,15 +17,14 @@
 - 🛡️ Focused on **Offensive Security**, especially **network security, penetration testing, and vulnerability assessment**  
 - 🎮 Active learner on **TryHackMe** & **Hack The Box**, practicing real-world attack simulations  
 - 🔍 Interested in **digital forensics**, **malware analysis**, and **threat hunting**  
-- 🛠️ Build security tools & automation scripts with **Python** and **Bash**    
+- 🛠️ Build security tools & automation scripts with **Python** and **Bash**
+- 🔭 Exploring real-world vulnerabilities, ethical hacking, and secure coding practices.   
 
 ---
 
 ### 📬 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tamilkumar-p)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tamizh-2005)  
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Tamizh2005)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tamilkumarjjcet@gmail.com)      [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tamilkumar-p)    [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Tamizh2005)  
 
 ---
 
